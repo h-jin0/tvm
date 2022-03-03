@@ -33,3 +33,4 @@ from .pytorch import from_pytorch
 from .caffe import from_caffe
 from .paddlepaddle import from_paddle
 from .change_datatype import ChangeDatatype
+from .larq import get_larq_convert_map
